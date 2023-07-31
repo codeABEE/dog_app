@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dog App</string>
+
+
+
+    <string name="dog_1_name">Black</string>
+    <string name="dog_1_breed">Labrador Retriever</string>
+    <string name="dog_1_gender">Female</string>
+
+    <string name="dog_2_name">White</string>
+    <string name="dog_2_breed">Akita Inu</string>
+    <string name="dog_2_gender">Female</string>
+
+    <string name="dog_3_name">Nick</string>
+    <string name="dog_3_breed">Rotweiler</string>
+    <string name="dog_3_gender">Female</string>
+
+    <string name="dog_4_name">Sandy</string>
+    <string name="dog_4_breed">American Bulldog</string>
+    <string name="dog_4_gender">Male</string>
+
+    <string name="dog_5_name">Blacky</string>
+    <string name="dog_5_breed">Labrador Retriever</string>
+    <string name="dog_5_gender">Male</string>
+
+</resources>
